@@ -394,7 +394,7 @@ public class EECEGForm extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void txtAActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtAActionPerformed
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_txtAActionPerformed
 
     private void btnPublicAMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnPublicAMouseClicked
